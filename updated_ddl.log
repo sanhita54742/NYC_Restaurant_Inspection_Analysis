@@ -1,0 +1,52 @@
+ER/Studio Data Architect Generate Database Facility Messages
+ 
+Target Datasource: 'NYC_Food (ODBC Driver 17 for SQL Server)'
+ 
+Date/Time: Sat Jul  8 16:57:00 2023
+--------------------------------------------------------
+ODBC Driver Name: msodbcsql17.dll
+ODBC Driver Version: 17.10.0003
+
+Creating/selecting database...
+   Create/Use Database...
+
+Generating Dependencies ...
+   Dependency Sql
+
+Generating Tables ...
+   Dim_NYC_Addresses
+   Dim_NYC_Borough
+   Dim_NYC_Critical_Flag
+   Dim_NYC_Cuisine
+   Dim_NYC_Food_Places
+   Dim_NYC_Inspection_Actions
+   Dim_NYC_Inspection_Grades
+   Dim_NYC_Inspection_Type
+   Dim_NYC_Violation_Codes
+   FCT_NYC_Food_Inspections
+   FCT_NYC_FoodInspection_Violations
+
+Generating Views ...
+
+Generating Indexes ...
+
+Generating Foreign Keys ...
+   Dim_NYC_Addresses
+   Dim_NYC_Borough
+   Dim_NYC_Critical_Flag
+   Dim_NYC_Cuisine
+   Dim_NYC_Food_Places
+   Dim_NYC_Inspection_Actions
+   Dim_NYC_Inspection_Grades
+   Dim_NYC_Inspection_Type
+   Dim_NYC_Violation_Codes
+   FCT_NYC_Food_Inspections
+   FCT_NYC_FoodInspection_Violations
+
+Generating Model Post SQL ...
+   Model Post Sql
+Ending time: Sat Jul  8 16:57:00 2023
+ 
+ 
+Code Generation Complete
+ 
